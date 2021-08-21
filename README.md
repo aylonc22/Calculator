@@ -1,2 +1,2 @@
 # Calculator
-Pure Html,JS,Css WebSite
+Pure Html JS Css WebSite
